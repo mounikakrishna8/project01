@@ -1,0 +1,16 @@
+
+body {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: #ebf5fc;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: linear-gradient(to bottom left, #007fe8 15%,  #00cdfc);
+    position: relative;
+  }
